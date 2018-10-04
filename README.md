@@ -1,7 +1,7 @@
 # Los Angeles
-IA - Lihui Guo
-Designer - Aliye Gallagher
-Coder - Cassidy Clayton
+IA - Lihui Guo  
+Designer - Aliye Gallagher  
+Coder - Cassidy Clayton  
 Website: http://csc174.org/assignment07/los-angeles
 
 ## Ontology
