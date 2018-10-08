@@ -3,7 +3,7 @@
 .wrap {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 100px 300px 1fr 1fr 30px;
+  grid-template-rows: 100px 1fr 1fr 30px;
   margin-top: 30px;
   width: 80%;
   max-width: 960px;
@@ -20,30 +20,10 @@ body {
   grid-row: 1 / 2;
 }
 
-.top-bar {
-
-}
-
-.hero {
-  grid-column: 2 / 3;
-  grid-row: 2 / 3;
-}
-
-
-aside {
-  grid-column: 3 / 4;
-  grid-row: 4 / 5;
-}
-
 main {
   margin: 40px;
   background-color: #8e8e90;
 }
-
-aside {
-  background-color: #d1bfa7;
-}
-
 
 header {
   display: inline-block;
@@ -73,8 +53,8 @@ nav ul {
 }
 
 main {
-  grid-column: 1 / 3;
-  grid-row: 3 / 5;
+  grid-column: 1 / 4;
+  grid-row: 2 / 4;
 }
 
 footer {
