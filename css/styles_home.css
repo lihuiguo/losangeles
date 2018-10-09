@@ -12,6 +12,12 @@
 }
 
 
+.is-current {
+  color: green;
+  background-color: blue;
+}
+
+
 body {
   background-color: #8e8e90;
   margin-top: 0px;
@@ -50,8 +56,12 @@ aside {
   grid-template-rows: 1fr 1fr 1fr;
 }
 
-.sidebar h2 a {
-  grid-row: 3 / 4;
+.sidebar h2 {
+  grid-row: 2 / 3 ;
+}
+
+.sidebar a {
+  grid-row: 2 / 3;
 }
 
 header {
@@ -88,6 +98,7 @@ nav div {
   font-weight: bold;
   color: #8e8e90; /*does nothing*/
 }
+
 /*
 nav li div {
   border-style: none;
@@ -107,6 +118,7 @@ main {
   grid-column: 1 / 3;
   grid-row: 3 / 5;
 }
+
 
 footer {
   grid-column: 2 / 3;
@@ -144,9 +156,9 @@ main {
 }
 
 main a {
-  text-decoration: none;
   color:  #ffffff;
 }
+
 
 
 
