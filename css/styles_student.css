@@ -4,6 +4,10 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+h2 {
+  padding-top: 100px;
+}
+
 header {
   display: inline-block;
   justify-content: space-between;
@@ -18,4 +22,12 @@ main {
 footer {
   grid-column: 2 / 3;
   grid-row: 4 / 5;
+}
+
+main {
+  color: #ffffff;
+}
+
+nav div {
+  padding-left: 3px;
 }
