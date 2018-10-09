@@ -48,12 +48,12 @@ aside {
 
 .sidebar a:hover {
   color: #ffffff;
+  background-color: #49494b;
 }
 
 main {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  grid-template-rows: 1fr 1fr 1fr;
 }
 
 main img {
@@ -66,4 +66,8 @@ main li {
 
 main h2 {
   grid-column: 1 / 2;
+}
+
+main {
+    color: #8e8e90;
 }
