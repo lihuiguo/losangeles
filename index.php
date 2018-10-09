@@ -6,6 +6,7 @@
 
 <head>
 	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/styles.css">
 	<link rel="stylesheet" href="css/styles_home.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Homepage</title>
