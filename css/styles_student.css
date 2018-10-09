@@ -13,11 +13,11 @@
 
 .is-current {
   color: green;
-  background-color: blue;
 }
 
 body {
   background-color: #8e8e90;
+  margin-top: 0px;
 }
 
 .top-bar {
@@ -25,7 +25,6 @@ body {
   grid-row: 1 / 2;
   position: fixed;
   background-color: #ffffff;
-  padding-right: 5px;
 }
 
 main {
@@ -49,15 +48,23 @@ nav {
 
 nav li {
   display: inline-block;
-  border: .5px solid;
+  border: .5px solid black;
+  padding: 2px;
+  color: #8e8e90;
 }
 
-nav div { /**erase the box */
-  border: 0px;
+nav a {
+  color: #8e8e90;
 }
 
-nav ul {
-  display: inline-block;
+a:hover {
+  background-color: #bd8c7d;
+  color: #ffffff;
+}
+
+nav div {
+  font-weight: bold;
+  color: #8e8e90; /*does nothing*/
 }
 
 main {
