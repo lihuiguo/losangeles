@@ -76,8 +76,9 @@
 	</footer>
 
 	</div>
+
+	<?php include 'inc/menu-highlighter.inc'; ?>
 	
-	<?php include 'inc/menu-highlighter.inc'; ?> 
 </body>
 
 

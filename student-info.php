@@ -91,6 +91,8 @@
 
 </div>
 
+<?php include 'inc/menu-highlighter.inc'; ?>
+
 </body>
 
 </html>
