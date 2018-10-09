@@ -1,6 +1,7 @@
 /* comment */
 .wrap {
   grid-template-rows: 100px 1fr 30px;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 header {
