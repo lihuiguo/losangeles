@@ -2,8 +2,6 @@
 
 .wrap {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 100px 300px 1fr 1fr 30px;
   margin-top: 30px;
   width: 80%;
   max-width: 960px;
@@ -30,26 +28,10 @@ body {
   background-color: #ffffff;
 }
 
-.hero {
-  grid-column: 2 / 3;
-  grid-row: 2 / 3;
-}
-
-
-aside {
-  grid-column: 3 / 4;
-  grid-row: 3 / 5;
-  margin: 15px;
-  margin-left: 0;
-  padding: 20px;
-}
-
 main {
   margin: 40px;
   background-color: #8e8e90;
 }
-
-
 
 header {
   display: inline-block;
@@ -138,13 +120,13 @@ main a {
 
 
 
-@media (max-width: 800px) {
+@media (max-width: 850px) {
 	.wrap {
 		display: block;
 		text-align: center;
-    min-width: 450px;
 }
-	.navstyle {
+	nav li {
+    display: block;
 		width: auto;
 	}
 
