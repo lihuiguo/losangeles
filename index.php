@@ -68,7 +68,7 @@
 
 		<aside class="sidebar">
 			<h2>Find out more about these students!</h2>
-			<a href="student-info.phpl">Click here.</a>
+			<a href="student-info.php">Click here.</a>
 		</aside>
 
 
