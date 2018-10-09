@@ -20,7 +20,7 @@
 				<h1>One MechE, Two DMS Majors</h1>
 			</header>
 
-			<nav class="navstyle">
+			<nav class="navstyle is-current">
 				<ul>
 					<li><a href="index.php">Homepage</a>  </li>
 					<li><a href="student-info.php">Students</a></li>
