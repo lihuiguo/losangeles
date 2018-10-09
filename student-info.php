@@ -92,7 +92,7 @@
 
 </div>
 
-<?php include 'inc/menu-highlighter.inc'; ?>
+<?php include 'inc/menu-highlighter.js'; ?>
 
 </body>
 
