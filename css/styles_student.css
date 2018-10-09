@@ -23,6 +23,9 @@ body {
 .top-bar {
   grid-column: 1 / 4;
   grid-row: 1 / 2;
+  position: fixed;
+  background-color: #ffffff;
+  padding-right: 5px;
 }
 
 main {

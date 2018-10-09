@@ -26,6 +26,9 @@ body {
 .top-bar {
   grid-column: 1 / 4;
   grid-row: 1 / 2;
+  position: fixed;
+  background-color: #ffffff;
+  padding-right: 5px;
 }
 
 .hero {
@@ -39,6 +42,7 @@ aside {
   grid-row: 3 / 5;
   margin: 15px;
   margin-left: 0;
+  padding: 20px;
 }
 
 main {
