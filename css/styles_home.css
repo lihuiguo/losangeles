@@ -13,6 +13,7 @@
 
 body {
   background-color: #8e8e90;
+  margin-top: 0px;
 }
 
 .top-bar {
@@ -32,7 +33,9 @@ body {
 
 aside {
   grid-column: 3 / 4;
-  grid-row: 4 / 5;
+  grid-row: 3 / 5;
+  margin: 15px;
+  margin-left: 0;
 }
 
 main {
@@ -44,6 +47,15 @@ aside {
   background-color: #d1bfa7;
 }
 
+.sidebar {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+
+.sidebar h2 a {
+  grid-row: 3 / 4;
+}
 
 header {
   display: inline-block;
@@ -111,6 +123,12 @@ main {
   padding: 20px;
   margin: 15px;
 }
+
+main a {
+  text-decoration: none;
+  color:  #ffffff;
+}
+
 
 
 
