@@ -22,13 +22,13 @@
 
 			<nav class="navstyle">
 				<ul>
-					<li><a href="index.html">Homepage</a>  </li>
-					<li><a href="student-info.html">Students</a></li>
+					<li><a href="index.php">Homepage</a>  </li>
+					<li><a href="student-info.php">Students</a></li>
 					<li><div>jump to...</div></li>
 						<ul>
-							<li><a href="student-info.html#ryan">Ryan Lin</a></li>
-							<li><a href="student-info.html#julia">Julia Myers</a></li>
-							<li><a href="student-info.html#pooja">Pooja Priya</a></li>
+							<li><a href="student-info.php#ryan">Ryan Lin</a></li>
+							<li><a href="student-info.php#julia">Julia Myers</a></li>
+							<li><a href="student-info.php#pooja">Pooja Priya</a></li>
 						</ul>
 					</li>
 				</ul>
@@ -40,7 +40,7 @@
 		</section>
 
 		<main>
-			<h2><a href="student-info.html#ryan">Ryan Lin</a></h2>
+			<h2><a href="student-info.php#ryan">Ryan Lin</a></h2>
 			<img src="images/ryan.jpg" alt="Picture of Ryan Lin">
 			<ul>
 				<li>Major: Mechanical Engineering</li>
@@ -48,7 +48,7 @@
 				<li>Fun Fact: Ryan is a singer and pianist who takes voice lessons at Eastman.</li>
 			</ul>
 
-			<h2><a href="student-info.html#julia">Julia Myers</a></h2>
+			<h2><a href="student-info.php#julia">Julia Myers</a></h2>
 			<img src="images/julia.jpg" alt="Picture of Julia Myers">
 			<ul>
 				<li>Major: Digital Media Studies</li>
@@ -56,7 +56,7 @@
 				<li>Fun Fact: Julia is a Cross Country and Track athlete.</li>
 			</ul>
 
-			<h2><a href="student-info.html#pooja">Pooja Priya</a></h2>
+			<h2><a href="student-info.php#pooja">Pooja Priya</a></h2>
 			<img src="images/pooja.jpg" alt="Picture of Pooja Priya">
 			<ul>
 				<li>Major: Digital Media Studies</li>
@@ -67,7 +67,7 @@
 
 		<aside class="sidebar">
 			<h2>Find out more about these students!</h2>
-			<a href="student-info.html">Click here.</a>
+			<a href="student-info.phpl">Click here.</a>
 		</aside>
 
 
@@ -78,7 +78,7 @@
 	</div>
 
 	<?php include 'inc/menu-highlighter.inc'; ?>
-	
+
 </body>
 
 
