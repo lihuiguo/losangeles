@@ -49,23 +49,7 @@ main {
   background-color: #8e8e90;
 }
 
-aside {
-  background-color: #d1bfa7;
-}
 
-.sidebar {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-}
-
-.sidebar h2 {
-  grid-row: 2 / 3 ;
-}
-
-.sidebar a {
-  grid-row: 2 / 3;
-}
 
 header {
   display: inline-block;
