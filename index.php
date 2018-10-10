@@ -34,7 +34,7 @@
 								<li><a href="student-info.php#pooja">Pooja Priya</a></li>
 							</ul>
 						</li>
-						
+
 				</ul>
 			</nav>
 		</div>
@@ -81,7 +81,7 @@
 
 	</div>
 
-	<?php include 'inc/menu-highlighter.js'; ?>
+	<?php include 'js/menu-highlighter.inc'; ?>
 
 </body>
 
