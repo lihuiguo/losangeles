@@ -1,17 +1,7 @@
-/* comment */
+/* layout ******************************************************************/
 .wrap {
   grid-template-rows: 100px 1fr 30px;
   grid-template-columns: 1fr 1fr 1fr;
-}
-
-h2 {
-  padding-top: 100px;
-}
-
-header {
-  display: inline-block;
-  justify-content: space-between;
-  float: left;
 }
 
 main {
@@ -24,10 +14,22 @@ footer {
   grid-row: 4 / 5;
 }
 
-main {
-  color: #ffffff;
+header {
+  display: inline-block;
+  justify-content: space-between;
+  float: left;
+}
+
+h2 {
+  padding-top: 100px;
 }
 
 nav div {
   padding-left: 3px;
+}
+
+
+/* styles ******************************************************************/
+main {
+  color: #ffffff;
 }
