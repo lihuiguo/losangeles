@@ -26,12 +26,13 @@
 				<li><a href="index.php">Homepage</a></li>
 				<li><a href="student-info.php">Students</a>
 					<li><div> jump to...</div></li>
-					<ul>
-						<li><a href="student-info.php#ryan">Ryan Lin</a></li>
-						<li><a href="student-info.php#julia">Julia Myers</a></li>
-						<li><a href="student-info.php#pooja">Pooja Priya</a></li>
-					</ul>
-				</li>
+					<li>
+						<ul>
+							<li><a href="student-info.php#ryan">Ryan Lin</a></li>
+							<li><a href="student-info.php#julia">Julia Myers</a></li>
+							<li><a href="student-info.php#pooja">Pooja Priya</a></li>
+						</ul>
+					</li>
 			</ul>
 		</nav>
 	</div>
