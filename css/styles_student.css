@@ -4,30 +4,22 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+nav div {
+  padding-left: 3px;
+}
+
 main {
   grid-column: 1 / 4;
   grid-row: 2 / 4;
-}
-
-footer {
-  grid-column: 2 / 3;
-  grid-row: 4 / 5;
-}
-
-header {
-  display: inline-block;
-  justify-content: space-between;
-  float: left;
 }
 
 h2 {
   padding-top: 100px;
 }
 
-nav div {
-  padding-left: 3px;
+footer {
+  grid-row: 4 / 5;
 }
-
 
 /* styles ******************************************************************/
 main {
