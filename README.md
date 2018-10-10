@@ -22,7 +22,7 @@ The three students are arranged in alphabetical order by last name. This also al
 The subsections for each student are arranged in order of importance. The introduction gives an overview, then we focus on college years because that's where they're at now. Work experience comes after since that's something that comes secondary to education right now in their lives.
 
 
-##CSS Strategy
+## CSS Strategy
 The css is split into three documents:
 - styles.css
 - styles_home.css
