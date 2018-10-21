@@ -17,12 +17,12 @@
 
 	<div class="wrap">
 
-		<div class="top-bar">
+		<div class="top-bar" id="primary">
 			<header>
 				<h1>One MechE, Two DMS Majors</h1>
 			</header>
 
-			<nav>
+			<nav id="strong">
 				<ul>
 					<li><a href="index.php">Homepage</a>  </li>
 					<li><a href="student-info.php">Students</a></li>
@@ -47,15 +47,15 @@
 			<p>This website features three University of Rochester juniors. Julia and Pooja are both Digital Media Studies students. Ryan is the odd one out, studying Mechanical Engineering.</p>
 		</main>
 
-		<aside class="sidebar">
+		<div id="weak">
+			This page was created by Team Los Angeles.
+		</div>
+
+
+		<div id="terminal">
 			<h2>Find out more about these students!</h2>
 			<a href="student-info.php">Click here.</a>
-		</aside>
-
-
-	<footer>
-		This page was created by Team Los Angeles.
-	</footer>
+		</div>
 
 	</div>
 
