@@ -6,6 +6,10 @@ Website: http://csc174.org/assignment07/los-angeles
 
 ## Ontology
 These are three University of Rochester juniors. The odd student out is differentiated by major. Two are Digital Media Studies majors, while the third is a Mechanical Engineering major.
+Each student has:
+- intro/overview
+- college experience
+- work experience
 
 ## Taxonomy
 ### Introduction
@@ -18,8 +22,13 @@ This last section discusses the experiences students have had out in the real wo
 This gives credit for the content from the students' original Assignment 2 page.
 
 ## Choreography
-The three students are arranged in alphabetical order by last name. This also allows for the two students with something in common (majoring in Digital Media Studies) to be placed consecutively.
-The subsections for each student are arranged in order of importance. The introduction gives an overview, then we focus on college years because that's where they're at now. Work experience comes after since that's something that comes secondary to education right now in their lives.
+The Z-pattern is as follows:
+- primary: title
+- strong: navigation links
+- weak: description of website purpose
+- terminal: continue reading more
+
+The three students are arranged in alphabetical order by last name. This also allows for the two students with something in common (majoring in Digital Media Studies) to be placed consecutively. The subsections for each student are arranged in order of importance. The introduction gives an overview, then we focus on college years because that's where they're at now. Work experience comes after since that's something that comes secondary to education right now in their lives.
 
 ------------
 
