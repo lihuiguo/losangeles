@@ -44,29 +44,7 @@
 		</section>
 
 		<main>
-			<h2><a href="student-info.php#ryan">Ryan Lin</a></h2>
-			<img src="images/ryan.jpg" alt="Picture of Ryan Lin">
-			<ul>
-				<li>Major: Mechanical Engineering</li>
-				<li>Class: 2020</li>
-				<li>Fun Fact: Ryan is a singer and pianist who takes voice lessons at Eastman.</li>
-			</ul>
-
-			<h2><a href="student-info.php#julia">Julia Myers</a></h2>
-			<img src="images/julia.jpg" alt="Picture of Julia Myers">
-			<ul>
-				<li>Major: Digital Media Studies</li>
-				<li>Class: 2020</li>
-				<li>Fun Fact: Julia is a Cross Country and Track athlete.</li>
-			</ul>
-
-			<h2><a href="student-info.php#pooja">Pooja Priya</a></h2>
-			<img src="images/pooja.jpg" alt="Picture of Pooja Priya">
-			<ul>
-				<li>Major: Digital Media Studies</li>
-				<li>Class: 2020</li>
-				<li>Fun Fact: Pooja is a part of the Karate and Taekwondo clubs here.</li>
-			</ul>
+			<p>This website features three University of Rochester juniors. Julia and Pooja are both Digital Media Studies students. Ryan is the odd one out, studying Mechanical Engineering.</p>
 		</main>
 
 		<aside class="sidebar">
