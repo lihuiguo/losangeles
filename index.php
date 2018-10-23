@@ -15,7 +15,7 @@
 
 <body>
 
-	<div class="wrap">
+
 
 		<div class="top-bar" id="primary">
 			<header>
@@ -53,11 +53,9 @@
 
 
 		<div id="terminal">
-			<h2>Find out more about these students!</h2>
+			<div>Find out more about these students!</div>
 			<a href="student-info.php">Click here.</a>
 		</div>
-
-	</div>
 
 	<?php include 'js/menu-highlighter.inc'; ?>
 
