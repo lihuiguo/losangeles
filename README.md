@@ -47,9 +47,9 @@ Each page is organized further:
 with state and media categories omitted if not necessary. Within each type, the code is organized how it is found on the page, from top to bottom.
 
 ## Layout
-The Z layout is displayed on the homepage with the header in the top left (zone 1), the navigation in the top right (zone 2), with a hero image of Rush Rhees below it, a small blurb of each student in zone 3, and a "read more about these students" in zone 4. 
+The Z layout is displayed on the homepage with the header in the top left (Primary), the navigation in the top right (strong), with a hero image of Rush Rhees below it, "this page by team LA" in the bottom left (weak), and a "read more about these students" in the bottom right, (terminal). I pushed the information to the edge, to fit best into the Z pattern. I worked with the IA to take off other information from the index page.
 
-The F layout is on the "student information" page, and is displayed by breaking up each student into a different section of the page with their name and photo, then a series of small paragraphs with subheadings about the student.
+The F layout is on the "student information" page, and is displayed by having the headings of each paragraph on the left side, followed by the paragraph itself in the middle, then a photo on the far right. The Odd student out is highlighted by a different background color than the other two students.
 
 For the navigation bar at the top, the IA and Designer decided to use an id to have a "jump to..." navigation, to jump to a specific person's information on the Student Info page. Because of this, it was necessary to have the navigation bar, and therefore the header (contained in the class .top-bar) to be present at all times on the website, so I used the position: fixed tag to keep it at the top of the viewport, and floated the header and nav to the left and right, respectively, to keep it neat.
 
