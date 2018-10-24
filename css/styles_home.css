@@ -29,6 +29,7 @@ main {
   grid-row: 3 / 4;
   text-align: center;
   background-color: #ffffff;
+  padding: 10px;
 }
 
 #terminal {
@@ -36,6 +37,10 @@ main {
   grid-row: 3 / 4;
   background-color: #c07164;
   text-align: center;
+}
+
+#terminal div {
+  padding: 7px;
 }
 
 
@@ -46,17 +51,10 @@ main {
     text-align: center;
 }
 
-#weak {
-  padding: 10px;
-}
-
-#weak div {
-}
 
 #terminal div {
   color: #49494b;
   font-size: 24px;
-  padding: 7px;
 }
 
 #terminal a {
@@ -70,5 +68,3 @@ main {
   color: #ffffff;
   background-color: #49494b;
 }
-
-/* figure out what isnt being called and delete or move from main styles to just the student styles*/
